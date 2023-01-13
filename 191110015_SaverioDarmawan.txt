@@ -3,3 +3,5 @@ tes
 
 
 Menambahkan cabang fitur-a pada cabang induk yaitu develop
+
+Membuat cabang rilis yang dimerge ke master
